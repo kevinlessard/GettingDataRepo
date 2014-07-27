@@ -15,6 +15,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 1. readme.md 
 2. codebook.md - description the variables and steps taken to transform the raw data
 3. run\_analysis.r - the script to complete the transformation
+4. final output file
 
 **Instructions for Script**
 
